@@ -191,5 +191,3 @@ func (b *BigStruct) Size() int { // Copies 8 bytes
 - **Zero Value**: `nil` for uninitialized pointers
 
 ```
-
-This guide covers essential pointer operations while emphasizing Go's memory safety features. Use pointers judiciously to balance performance and code clarity.
