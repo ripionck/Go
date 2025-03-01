@@ -1,4 +1,4 @@
-```
+```markdown
 # Go Structs Examples
 
 ## Table of Contents
