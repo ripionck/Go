@@ -1,5 +1,4 @@
-```markdown
-# Go Generics Examples
+### Go Generics Examples
 
 ### 1. Basic Generic Function
 ```go
