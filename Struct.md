@@ -155,3 +155,4 @@ Implement composition through struct embedding for code reuse.
 - 🏷️ Struct tags provide metadata for encoding/decoding
 
 ---
+```
