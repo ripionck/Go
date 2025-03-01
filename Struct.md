@@ -1,5 +1,4 @@
-```markdown
-# Go Struct Examples
+### Go Struct Examples
 
 ### 1. Basic Struct Declaration
 ```go
