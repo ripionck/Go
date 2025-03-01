@@ -1,5 +1,3 @@
-
-
 ```markdown
 # Go Structs Examples
 
