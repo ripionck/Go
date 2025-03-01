@@ -1,7 +1,6 @@
 
 ### Go File Handling Examples
 
-```markdown
 ### 1. Basic File Operations
 ```go
 package main
