@@ -1,7 +1,4 @@
-```markdown
-# Go Interface Examples
-
-## Examples
+### Go Interface Examples
 
 ### 1. Basic Interface Declaration
 ```go
