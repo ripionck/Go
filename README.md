@@ -1,6 +1,7 @@
 ## Go Language Documentation
 
 ### Core Concepts
+- [Data Types and Operators](Data%20Types%20and%20Operators.md)
 - [Variables](Variable.md)
 - [Control Flow](Control%20Flow.md)
 - [Functions](Function.md)
